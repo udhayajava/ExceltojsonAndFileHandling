@@ -30,6 +30,7 @@ public class ReadExcel {
                 if (rowNum == 0) {
                     rowNum++;
                     continue;
+
                 }
                 Iterator cells = row.iterator();
                 Students students = new Students();

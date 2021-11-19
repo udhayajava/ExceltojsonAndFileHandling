@@ -9,6 +9,7 @@ public class Run {
         excelHandling.methodToFindOutNumberOfRowAndColumn();
         excelHandling.methodToFindToFindTheCellContent();
         //excelHandling.getValueOfGivenRows();
+
         excelHandling.getValueOfGivenColumn();
         }
         ReadExcel readExcel = new ReadExcel();
